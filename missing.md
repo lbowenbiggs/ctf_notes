@@ -2,7 +2,7 @@
 This is a (ongoing) list of things I want to put in this repo. 
 
 ## Write-Ups
-These should be clearly written examples of cybersecurity topics. Any examples taken from CTFs should not mension the puzzle it came from and should be as general as possilbe to avoid spoilers. 
+These should be clearly written examples of cybersecurity topics. Any examples taken from CTFs should not mention the puzzle it came from and should be as general as possilbe to avoid spoilers. 
 
 - [ ] How .zip files work + how to use hexedit to fix them
 - [ ] Basic command line + perl usage
